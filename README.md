@@ -9,10 +9,16 @@ The implementation of FARF (PAKDD 21), a fair and adaptive ensemble classifier f
   
 ## Citation
 @inproceedings{zhang2021farf,
+
 title={FARF: A Fair and Adaptive Random Forests Classifier},
+
 author={Zhang, Wenbin and Bifet, Albert and Zhang, Xiangliang and Weiss, Jeremy C and Nejdl, Wolfgang},
+
 booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+
 pages={245--256},
+
 year={2021},
+
 organization={Springer}
 }
