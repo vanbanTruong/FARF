@@ -8,6 +8,15 @@ The implementation of FARF (PAKDD 21), a fair and adaptive ensemble classifier f
       
   
 ## Citation
+@inproceedings{zhang2018deterministic,  
+     title={A deterministic self-organizing map approach and its application on satellite data based cloud type classification}, 
+     author={Zhang, Wenbin and Wang, Jianwu and Jin, Daeho and Oreopoulos, Lazaros and Zhang, Zhibo},  
+     booktitle={2018 IEEE International Conference on Big Data (Big Data)},  
+     pages={2027--2034},  
+     year={2018},  
+     organization={IEEE}  
+}
+
 @inproceedings{zhang2021farf,
 title={FARF: A Fair and Adaptive Random Forests Classifier},
 
