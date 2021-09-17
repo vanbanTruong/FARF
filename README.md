@@ -1,5 +1,5 @@
 # FARF
-The implementation of FARF (PAKDD 21), a fair and adaptive ensemble classifier for online stream based decision-making. Detailded information about FARF is provided in [FARF](https://www.ijcai.org/proceedings/2019/0205.pdf).  
+The implementation of FARF (PAKDD 21), a fair and adaptive ensemble classifier for online stream based decision-making. Detailded information about FARF is provided in [FARF](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_20).  
 
 ## Instructions
 1. Clone this repository.
